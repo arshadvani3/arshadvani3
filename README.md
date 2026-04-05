@@ -80,11 +80,15 @@ Deployed Llama 3.2 on GKE/Nautilus with horizontal pod autoscaling, Prometheus m
 </tr>
 </table>
 
+<!-- 
 ---
+-->
 
+<!-- 
 ## 📊 GitHub Stats
+-->
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=arshadvani&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadvani&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
@@ -95,9 +99,12 @@ Deployed Llama 3.2 on GKE/Nautilus with horizontal pod autoscaling, Prometheus m
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arshadvani&theme=github-dark-blue&hide_border=true)
 
-</div>
+</div> -->
 
+<!-- 
 ---
+-->
+
 
 <div align="center">
 <sub>⚡ Building things at the intersection of LLMs, systems, and product · Always open to a good chat</sub>
