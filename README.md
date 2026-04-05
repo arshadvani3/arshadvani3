@@ -8,7 +8,7 @@
 
 Building LLM systems, multi-agent pipelines, and cloud-native infra.
 Previously @ LTIMindtree (vision-language models) · BigShorts (SWE).
-Physics TA @ UCSC · STEM OPT · No sponsorship required.
+TA @ UCSC · STEM OPT.
 
 <br/>
 
