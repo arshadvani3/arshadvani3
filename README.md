@@ -13,8 +13,8 @@ TA @ UCSC · STEM OPT.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arshadvani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadvani)
-[![Email](https://img.shields.io/badge/Email-aadvani@ucsc.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadvani@ucsc.edu)
-[![Portfolio](https://img.shields.io/badge/DevDocs_AI-Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://devdocs-ai.vercel.app)
+[![Email](https://img.shields.io/badge/Email-arshadvani3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arshadvani3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/DevDocs_AI-Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://devdocs-ai-beryl.vercel.app)
 
 </div>
 
@@ -64,7 +64,7 @@ Ingests GitHub repos & docs (27 file types), embeds with HuggingFace, stores in 
 
 `Python` `TypeScript` `Qdrant` `Groq` `Upstash Redis`
 
-🔗 [devdocs-ai.vercel.app](https://devdocs-ai.vercel.app)
+🔗 [devdocs-ai-beryl.vercel.app](https://devdocs-ai-beryl.vercel.app)
 
 </td>
 <td width="33%" valign="top">
